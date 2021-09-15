@@ -1,0 +1,17 @@
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\bin\Debug\Dynmaic n and c.exe.config
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\bin\Debug\Dynmaic n and c.exe
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\bin\Debug\Dynmaic n and c.pdb
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\Dynmaic n and c.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\Game.g.cs
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\MainWindow.g.cs
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\App.g.cs
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\Dynmaic n and c_MarkupCompile.cache
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\Dynmaic n and c_MarkupCompile.lref
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\Game.baml
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\MainWindow.baml
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\Dynmaic n and c.g.resources
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\Dynmaic_n_and_c.Properties.Resources.resources
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\Dynmaic n and c.csproj.GenerateResource.cache
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\Dynmaic n and c.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\Dynmaic n and c.exe
+C:\Users\Lorenzo\source\repos\Dynmaic n and c\Dynmaic n and c\obj\Debug\Dynmaic n and c.pdb
